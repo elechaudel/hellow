@@ -1,2 +1,2 @@
 # hellow
-Going fully static and serverless with Netlify CMS.
+Going fully Static and Serverless with Netlify CMS.
