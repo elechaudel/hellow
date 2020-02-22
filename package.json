@@ -20,7 +20,7 @@
     "gulp-twig-pipe": "^0.1.0"
   },
   "scripts": {
-    "build": "gulp build",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
