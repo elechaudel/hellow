@@ -1,0 +1,10 @@
+{
+    "name": "edgarlechaudel/hellow",
+    "authors": [
+        {
+            "name": "Edgar Lechaudel",
+            "email": "elechaudel@gmail.com"
+        }
+    ],
+    "require": {}
+}
